@@ -2,10 +2,9 @@
     
     "showupdate":true,
     "version":1,
-    "title":"",
-    "content":"",
-    "button":"",
-    "link":"link",
+    "title":"Update Version",
+    "content":"Please Upadte Verision",
+    "link":"https://play.google.com/store/apps/details?id=com.pro.burmese_tv",
     "home":1,
     "live":1
     
