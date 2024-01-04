@@ -1,5 +1,12 @@
 {
-    "hello":"hello",
-    "Hey":"Burmese TV",
-    "gmail":"mail"
+    
+    "showupdate":true,
+    "version":1,
+    "title":"",
+    "content":"",
+    "button":"",
+    "link":"link",
+    "home":1,
+    "live":1
+    
 }
